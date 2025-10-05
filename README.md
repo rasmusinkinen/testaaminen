@@ -2,10 +2,10 @@
 <html lang="fi">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://www.liiga.fi/">
-    <title>Harjoitussivu</title>
+    <meta http-equiv="refresh" content="0; url=https://www.espoo.fi/fi/nuorisovaltuusto">
+    <title>Ohjaus Nuorisovaltuustoon</title>
 </head>
 <body>
-    <p>Jos uudelleenohjaus ei toimi, klikkaa tästä: <a href="https://www.liiga.fi/">Liiga.fi</a></p>
+    <p>Uudelleenohjataan Nuorisovaltuuston sivulle... <a href="https://www.espoo.fi/fi/nuorisovaltuusto">Siirry tästä</a></p>
 </body>
 </html>
